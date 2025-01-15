@@ -1,8 +1,5 @@
-# Codio AI: Revolutionizing Web Development
+# Codio AI: Revolutionizing Development
 
-<p align="center">
-  <img src="/placeholder.svg?height=200&width=200" alt="Codio Logo" width="200" height="200">
-</p>
 
 <p align="center">
   <strong>Empowering developers with AI-driven coding assistance</strong>
